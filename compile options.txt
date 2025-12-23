@@ -1,0 +1,1 @@
+-static -static-libgcc -lgdi32 -lgdiplus -std=c++11 -mwindows -municode
